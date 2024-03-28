@@ -1,5 +1,0 @@
-age=int(input("what is your age: "))
-age1 = (age*6)
-age2=(age1/2)
-age3=(age2+32)
-print(age3)
